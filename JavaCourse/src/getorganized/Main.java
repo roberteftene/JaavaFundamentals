@@ -84,6 +84,15 @@ public class Main {
         long resu = (long) (longVal - floatVal);
         long re = (long) (shortVal - longVal + floatVal + doubleVal);
 
+        int v1 = 7;
+        int v2 = 5;
+        int vMax = v1 > v2? v1:v2;
+        System.out.println(vMax);
+
+        int students = 150;
+        int rooms = 0;
+        if(rooms > 0 & students/rooms > 30)
+            System.out.println("Crowded!");
 
     }
 }
