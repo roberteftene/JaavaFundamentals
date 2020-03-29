@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaCourseModuleWithParameters:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaCourseModuleWithParameters_jar</output-path>
+    <root id="archive" name="JavaCourseModuleWithParameters.jar">
+      <element id="module-output" name="JavaCourseModuleWithParameters" />
+    </root>
+  </artifact>
+</component>
